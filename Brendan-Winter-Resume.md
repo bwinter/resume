@@ -6,7 +6,7 @@
 
 **Summary \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS/SaaS from seed to enterprise. Architected reliable, mission-critical systems from launch to hundreds of thousands of requests/day and later supported platforms handling tens of millions of requests/day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices (observability, incident response, standards adoption).
+**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS/SaaS from seed to enterprise. Architecting reliable, mission-critical systems from launch to hundreds of thousands of requests/day and later supported platforms handling tens of millions of requests/day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices.
 
 **Experience \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -15,20 +15,20 @@
 
 * Cut SQL prototyping, data analysis, and debugging from **days** to **hours** by building a **project-specific GPT** grounded in the team's models, log schema, and datasets.
 
-* Replaced 1/7/14-day usage/conversion rollups with full-history reporting over **10M+ rows** while maintaining baseline response times and simplifying maintenance — by reducing joins, centralizing models and adding caching (Athena/Iceberg/CloudFront logs/Metabase).
+* Replaced 1/7/14-day usage/conversion rollups with full-history reporting over 10M+ rows while maintaining baseline response times and simplifying maintenance — by reducing joins, centralizing models and adding caching (Athena/Iceberg/CloudFront logs/Metabase).
 
 | Software Reliability Engineer 3, VMware | *remote, Jan 2020 — Dec 2023* |
 | :---- | ----: |
 
 * Standardized ops visibility across Tanzu, collaborating with **20** microservice teams to define **SLIs & error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
 
-* Productize dashboard approach with **dashboards-as-code** (**Terraform**) — authored 6 reusable modules and maintained the Wavefront Terraform provider and Go client so teams could self-serve.
+* Productize dashboard approach with **dashboards-as-code** (Terraform) — authored 6 reusable modules and maintained the Wavefront Terraform provider and **Go** client to simplify configuration and share logic.
 
 * Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating a **Kubernetes** cluster running custom SLI probes/controllers that emitted metrics to Wavefront (**time-series DB**). (Kustomize/GitOps, Vault, Python and kubebuilder)
 
 * Drove cross-service **incident triage** for Tanzu microservice teams, resolving a dozen "no-owner" incidents by leading RCAs and handing off results to service teams and their leadership.
 
-* Led Pivotal Web Services' sunset — offboarding **hundreds of thousands of users** and reduced PaaS run-rate by \~$1M/month — by planning cutovers/comms and sequencing cohort removals on **AWS**/Cloud Foundry.
+* Led Pivotal Web Services' sunset — offboarding **hundreds of thousands of users** and reducing run-rate by \~$1M/month — by planning cutovers/comms and sequencing cohort removals (Rails/AWS/Cloud Foundry).
 
 | Senior Software Engineer, Pivotal (acquired by VMware) | *in-office, Feb 2018 — Jan 2020* |
 | :---- | ----: |
@@ -39,11 +39,11 @@
 
 * Invited to participate in the company's NYC-based SHC knowledge-share, collaborating with other facilitators on processes to improve company-wide practice.
 
-* Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (**Datadog**/PagerDuty), leading **incident responses** while updating runbooks and tooling.
+* Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
 
-* Maintained full-stack Billing & Account Management app and its CI/CD — pair programming full time to support hundreds of thousands of users' billing needs — through Rails feature development, migrations and CI/CD hardening.
+* Maintained full-stack Billing & Account Management app and its CI/CD — **pair programming** full time to support hundreds of thousands of users' billing needs — through Rails feature development, migrations and **CI/CD** hardening.
 
-* Maintained the platform's Ruby-based Usage service and its CI/CD, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
+* Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
 
 | Consulting Software Engineer, Textline | *in-office, Jun 2017 — Nov 2017* |
 | :---- | ----: |
@@ -58,13 +58,13 @@
 | Founding Engineer, Gametime | *hybrid, Jun 2013 — Jan 2017* |
 | :---- | ----: |
 
-* Supported company growth — from seed ($100K) to Series B ($20M) — as primary architect, capacity planner, and on-call for the first 3 years.
+* Supported company growth — from seed ($100K) to Series B ($20M) — as primary architect, capacity planner, and **on-call** for the first 3 years.
 
 * Enabled early investor demos and customer satisfaction — taking prototype **\<40%** purchase reliability to **≥80%** in the first month — by replacing an alpha Python backend with a robust Ruby implementation.
 
-* Increased checkout reliability to **99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/**Kafka**), observability (**Datadog**/Honeybadger) and improving alert hygiene.
+* Increased checkout reliability to **99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/Kafka), observability (Datadog/Honeybadger) and improving alert hygiene.
 
-* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on **AWS** (EC2, S3, Route 53).
+* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on **AWS** (EC2, S3, Route 53\) while scaling MongoDB.
 
 * **Onboarded new engineers** — keeping time-to-first-commit within the first couple days — by providing early code reviews and code tours.
 
@@ -82,7 +82,7 @@
 
 **Personal Projects & Leadership \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-* **Game Hosting Platform**, **Personal**: Built a web frontend on **GCP** that currently supports two headless games: Valheim and Barotrauma — collaborating with **ChatGPT** to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
+* **Game Hosting Platform**, **Personal Project**: Built a web frontend on **GCP** that currently supports two headless games: Valheim and Barotrauma — collaborating with **ChatGPT** to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
 
 * **Board Member**, **Condo HOA**: Kept operations predictable and reserves aligned, achieving no unplanned special assessments, through collaborative budget and reserve planning with fellow directors and property management (Sep 2022 \- Present)
 
@@ -103,7 +103,7 @@
 
 **Datastores**: PostgreSQL, Redis, etcd, MongoDB
 
-**Mentorship**: Pair Programming, informal technical leadership; mentor for many junior teammates
+**Mentorship**: Pair Programming, informal technical leader; mentoring many junior teammates
 
 | Seattle, WA 98102 | [https://www.linkedin.com/in/brendanwinter/](https://www.linkedin.com/in/brendanwinter/) |
 | :---- | ----: |
