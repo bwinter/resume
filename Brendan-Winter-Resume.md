@@ -33,17 +33,17 @@
 | Senior Software Engineer, Pivotal (acquired by VMware) | *in-office, Feb 2018 — Jan 2020* |
 | :---- | ----: |
 
-* Gave 6 cohorts of 6–8 new engineers an operations baseline to apply on their microservice teams by facilitating a week-long **onboarding curriculum** built around the PaaS our customers ran.
-
-* Enhanced team performance for 8 teams by increasing **psychological safety** (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
-
-* Invited to participate in the company's NYC-based SHC knowledge-share, collaborating with other facilitators on processes to improve company-wide practice.
-
 * Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
 
 * Maintained full-stack Billing & Account Management app and its CI/CD — **pair programming** full time to support hundreds of thousands of users' billing needs — through Rails feature development, migrations and **CI/CD** hardening.
 
 * Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
+
+* Gave 6 cohorts of 6–8 new engineers an operations baseline to apply on their microservice teams by facilitating a week-long **onboarding curriculum** built around the PaaS our customers ran.
+
+* Enhanced team performance for 8 teams by increasing **psychological safety** (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
+
+* Invited to participate in the company's NYC-based SHC knowledge-share, collaborating with other facilitators on processes to improve company-wide practice.
 
 | Consulting Software Engineer, Textline | *in-office, Jun 2017 — Nov 2017* |
 | :---- | ----: |
