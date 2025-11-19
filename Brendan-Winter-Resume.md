@@ -6,7 +6,7 @@
 
 **Summary \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS/SaaS from seed to enterprise. Architecting reliable, mission-critical systems from launch to hundreds of thousands of requests/day and later supported platforms handling tens of millions of requests/day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices.
+**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS/SaaS from seed to enterprise. Architecting reliable, mission-critical systems from launch to hundreds of thousands of requests/day and later supporting platforms handling tens of millions of requests/day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices.
 
 **Experience \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -20,11 +20,11 @@
 | Software Reliability Engineer 3, VMware | *remote, Jan 2020 — Dec 2023* |
 | :---- | ----: |
 
-* Standardized ops visibility across Tanzu, collaborating with **20** microservice teams to define **SLIs & error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
+* Standardized operations visibility across Tanzu, collaborating with **20** microservice teams to define **SLIs** & **error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
 
-* Productize dashboard approach with **dashboards-as-code** (Terraform) — authored 6 reusable modules and maintained the Wavefront Terraform provider and **Go** client to simplify configuration and share logic.
+* Productize dashboard approach with dashboards-as-code (**Terraform**) — authored 6 reusable modules, maintained the Wavefront Terraform provider and **Go** client to simplify configuration and share logic.
 
-* Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating a **Kubernetes** cluster running custom SLI probes/controllers that emitted metrics to Wavefront (**time-series DB**). (Kustomize/GitOps, Vault, Python and kubebuilder)
+* Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom SLI probes/controllers that emitted metrics to Wavefront (**time-series DB**). (Kustomize/GitOps, Vault, Python and kubebuilder)
 
 * Drove cross-service **incident triage** for Tanzu microservice teams, resolving a dozen "no-owner" incidents by leading RCAs and handing off results to service teams and their leadership.
 
@@ -33,17 +33,17 @@
 | Senior Software Engineer, Pivotal (acquired by VMware) | *in-office, Feb 2018 — Jan 2020* |
 | :---- | ----: |
 
-* Enhanced team performance for 8 teams by increasing **psychological safety** (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
+* Maintained full-stack Billing & Account Management app and its CI/CD — **pair programming** full time to support hundreds of thousands of users' billing needs — through Rails feature development, migrations and **CI/CD** hardening.
+
+* Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
+
+* Enhanced team performance for 8 teams by increasing psychological safety (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
 
 * Invited to participate in the company's NYC-based SHC knowledge-share, collaborating with other facilitators on processes to improve company-wide practice.
 
 * Gave 6 cohorts of 6–8 new engineers an operations baseline to apply on their microservice teams by facilitating a week-long **onboarding curriculum** built around the PaaS our customers ran.
 
 * Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
-
-* Maintained full-stack Billing & Account Management app and its CI/CD — **pair programming** full time to support hundreds of thousands of users' billing needs — through Rails feature development, migrations and **CI/CD** hardening.
-
-* Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
 
 | Consulting Software Engineer, Textline | *in-office, Jun 2017 — Nov 2017* |
 | :---- | ----: |
@@ -58,17 +58,17 @@
 | Founding Engineer, Gametime | *hybrid, Jun 2013 — Jan 2017* |
 | :---- | ----: |
 
-* Supported company growth — from seed ($100K) to Series B ($20M) — as primary architect, capacity planner, and **on-call** for the first 3 years.
+* Supported company growth — from seed ($100K) to Series B ($20M) — as primary architect, capacity planner, and on-call for the first 3 years.
 
 * Enabled early investor demos and customer satisfaction — taking prototype **\<40%** purchase reliability to **≥80%** in the first month — by replacing an alpha Python backend with a robust Ruby implementation.
 
 * Increased checkout reliability to **99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/Kafka), observability (Datadog/Honeybadger) and improving alert hygiene.
 
-* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on **AWS** (EC2, S3, Route 53\) while scaling MongoDB.
+* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on **AWS** (EC2, S3, Route 53\) and scaling MongoDB.
 
 * **Onboarded new engineers** — keeping time-to-first-commit within the first couple days — by providing early code reviews and code tours.
 
-* Allowed non-technical teams to add hundreds of new venues with **thousands** of seats for multiple teams/performers and vendors by implementing JSON/regex-based adapter patterns.
+* Allowed non-technical teams to add **hundreds** of new venues with **thousands** of seats for multiple teams/performers and vendors by implementing and teaching JSON/regex-based adapter patterns.
 
 * Delivered 8 vendor integrations and cut lead times from **months to days** by standardizing vendor microservice patterns.
 
@@ -78,11 +78,11 @@
 
 * **Consultant**, **Spiration**: Built a web form on Salesforce/Force.com — reducing data-entry errors to near zero — using a combination of Visualforce and JavaScript. (*remote, 2013*)
 
-* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen **realtors** — thousands of ads posted and verified per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a Node.js backend on **AWS**. (*hybrid, 2010 — 2013*)
+* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen **realtors** — thousands of ads posted and automatically verified per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a **Node.js** backend on **AWS**. (*hybrid, 2010 — 2013*)
 
 **Personal Projects & Leadership \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-* **Game Hosting Platform**, **Personal Project**: Built a web frontend on **GCP** that currently supports two headless games: Valheim and Barotrauma — collaborating with **ChatGPT** to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
+* **Game Hosting Platform**, **Personal Project**: Built a full stack platform on **GCP** that currently supports two headless game servers: Valheim and Barotrauma — collaborated with **ChatGPT** to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
 
 * **Board Member**, **Condo HOA**: Kept operations predictable and reserves aligned, achieving no unplanned special assessments, through collaborative budget and reserve planning with fellow directors and property management (Sep 2022 \- Present)
 
