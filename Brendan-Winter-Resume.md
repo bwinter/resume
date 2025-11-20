@@ -17,7 +17,7 @@
 
 * Replaced 1/7/14-day usage/conversion rollups with full-history reporting over 10M+ rows while maintaining baseline response times and simplifying maintenance — by reducing joins, centralizing models and adding caching (Athena/Iceberg/CloudFront logs/Metabase).
 
-| Software Reliability Engineer 3, VMware | *remote, Jan 2020 — Dec 2023* |
+| Software Reliability Engineer 3, VMware (acquired by Broadcom) | *remote, Jan 2020 — Dec 2023* |
 | :---- | ----: |
 
 * Standardized operations visibility across Tanzu, collaborating with **20** microservice teams to define **SLIs** & **error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
@@ -37,13 +37,13 @@
 
 * Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
 
+* Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
+
 * Enhanced team performance for 8 teams by increasing psychological safety (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
 
 * Invited to participate in the company's NYC-based SHC knowledge-share, collaborating with other facilitators on processes to improve company-wide practice.
 
 * Gave 6 cohorts of 6–8 new engineers an operations baseline to apply on their microservice teams by facilitating a week-long **onboarding curriculum** built around the PaaS our customers ran.
-
-* Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
 
 | Consulting Software Engineer, Textline | *in-office, Jun 2017 — Nov 2017* |
 | :---- | ----: |
@@ -103,7 +103,9 @@
 
 **Datastores**: PostgreSQL, Redis, etcd, MongoDB
 
-**Mentorship**: Pair Programming, informal technical leader; mentoring many junior teammates
+**Mentorship**: Pair Programming, informal technical leader and mentor
+
+**Productivity**: Agile, IntelliJ, vim, Git, JIRA, PivotalTracker
 
 | Seattle, WA 98102 | [https://www.linkedin.com/in/brendanwinter/](https://www.linkedin.com/in/brendanwinter/) |
 | :---- | ----: |
