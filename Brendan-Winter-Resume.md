@@ -70,7 +70,7 @@
 
 * Allowed non-technical teams to add **hundreds** of new venues with **thousands** of seats for multiple teams/performers and vendors by implementing and teaching JSON/regex-based adapter patterns.
 
-* Delivered 8 vendor integrations and cut lead times from **months to days** by standardizing vendor microservice patterns (including Ticket Evolution).
+* Delivered 8 vendor integrations and cut lead times from **months to days** by standardizing vendor microservice patterns.
 
 * Grew the engineering team from a single engineer (myself) to 12, participating in hiring ICs, leads and directors.
 
