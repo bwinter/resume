@@ -22,7 +22,7 @@
 
 * Standardized operations visibility across Tanzu, collaborating with **20** microservice teams to define **SLIs** & **error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
 
-* Productize dashboard approach with dashboards-as-code (**Terraform**) — authored 6 reusable modules, maintained the Wavefront Terraform provider and **Go** client to simplify configuration and share logic.
+* Productize dashboard approach with dashboards-as-code (**Terraform**) — authoring 6 reusable modules, maintaining the Wavefront Terraform provider and **Go** client to simplify configuration and share logic.
 
 * Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom SLI probes/controllers that emitted metrics to Wavefront (**time-series DB**). (Kustomize/GitOps, Vault, Python and kubebuilder)
 
@@ -37,7 +37,7 @@
 
 * Maintained the platform's Ruby-based Usage service and its **CI/CD**, across dozens of versions of the platform by shipping features, updating dependencies and fixing customer/CI issues.
 
-* Sustained Pivotal Web Services at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — by enforcing CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (**Bash**/**Ruby**/**Python**).
+* Sustained Pivotal Web Services (PaaS) at a **99.95%** SLO across thousands of nodes and dozens of services while deploying weekly updates — using CI gates, canary node pools, quick rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating runbooks and tooling (Bash/Ruby/Python).
 
 * Enhanced team performance for 8 teams by increasing psychological safety (Google's Project Aristotle) by volunteering to moderate team-building exercises based on Spotify's Squad Health Check (SHC).
 
@@ -64,13 +64,13 @@
 
 * Increased checkout reliability to **99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/Kafka), observability (Datadog/Honeybadger) and improving alert hygiene.
 
-* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on **AWS** (EC2, S3, Route 53\) and scaling MongoDB.
+* Rightsized backend as users grew from tens of users per day to **tens of thousands** of users per day by implementing Ruby microservices on AWS (EC2, S3, Route 53\) and scaling MongoDB/Redis/Etcd.
 
 * **Onboarded new engineers** — keeping time-to-first-commit within the first couple days — by providing early code reviews and code tours.
 
 * Allowed non-technical teams to add **hundreds** of new venues with **thousands** of seats for multiple teams/performers and vendors by implementing and teaching JSON/regex-based adapter patterns.
 
-* Delivered 8 vendor integrations and cut lead times from **months to days** by standardizing vendor microservice patterns.
+* Delivered 8 vendor integrations and cut lead times from **months to days** by standardizing vendor microservice patterns (including Ticket Evolution).
 
 * Grew the engineering team from a single engineer (myself) to 12, participating in hiring ICs, leads and directors.
 
@@ -78,11 +78,11 @@
 
 * **Consultant**, **Spiration**: Built a web form on Salesforce/Force.com — reducing data-entry errors to near zero — using a combination of Visualforce and JavaScript. (*remote, 2013*)
 
-* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen **realtors** — thousands of ads posted and automatically verified per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a **Node.js** backend on **AWS**. (*hybrid, 2010 — 2013*)
+* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen realtors — thousands of ads posted and automatically verified per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a Node.js backend on AWS. (*hybrid, 2010 — 2013*)
 
 **Personal Projects & Leadership \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-* **Game Hosting Platform**, **Personal Project**: Built a full stack platform on **GCP** that currently supports two headless game servers: Valheim and Barotrauma — collaborated with **ChatGPT** to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
+* **Game Hosting Platform**, **Personal Project**: Built a full stack platform on GCP which currently supports two headless game servers: Valheim and Barotrauma — collaborated with ChatGPT to produce Bash, systemd, Terraform and Packer-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024*)
 
 * **Board Member**, **Condo HOA**: Kept operations predictable and reserves aligned, achieving no unplanned special assessments, through collaborative budget and reserve planning with fellow directors and property management (Sep 2022 \- Present)
 
@@ -105,7 +105,7 @@
 
 **Mentorship**: Pair Programming, informal technical leader and mentor
 
-**Productivity**: Agile, IntelliJ, vim, Git, JIRA, PivotalTracker
+**Productivity**: Agile, IntelliJ, vim, Git, JIRA, PivotalTracker, Miro
 
 | Seattle, WA 98102 | [https://www.linkedin.com/in/brendanwinter/](https://www.linkedin.com/in/brendanwinter/) |
 | :---- | ----: |
