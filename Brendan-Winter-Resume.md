@@ -4,7 +4,7 @@
 
 **Summary \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS and SaaS from seed to enterprise. Architecting reliable, mission-critical systems from launch to hundreds of thousands of requests per day and later supporting platforms handling tens of millions of requests per day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices.
+**Senior SWE/SRE** with 16 years of experience building and operating reliable PaaS and SaaS from seed to enterprise. Architecting reliable, mission-critical systems from launch to hundreds of thousands of requests per day as well as supporting platforms handling tens of millions of requests per day. Proficient in modern programming languages and procedures, multiple cloud platforms, and SRE practices.
 
 **Experience \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -20,9 +20,9 @@
 
 * Standardized operations visibility across Tanzu, collaborating with **20 microservice teams** to define their **SLIs** & **error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
 
-* Authored 6 reusable **dashboards-as-code** **Terraform modules**, maintained Wavefront **Terraform provider** and **Go API client**, simplifying configuration and leveraging modular design for single-pane dashboard.
+* Authored 6 reusable **dashboards-as-code** **Terraform modules**, maintained Wavefront **Terraform provider** and **Go API client**, simplifying configuration and leveraging modular design.
 
-* Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom **SLI probes** and **k8s controllers,** emitting metrics to Wavefront (**time-series DB**). (**Kustomize**/**GitOps**/fluentbit, Vault, **Python** and **kubebuilder**)
+* Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom **SLI probes** and **k8s controllers,** emitting metrics to Wavefront (time-series DB). (Kustomize/GitOps/fluentbit, Vault, **Python** and kubebuilder)
 
 * Drove **cross-service incident triage** for Tanzu microservice teams, resolving a dozen "no-owner" incidents by leading **blameless RCAs** and pushing through organizational friction to get fixes implemented.
 
@@ -31,9 +31,9 @@
 | Senior Software Engineer, Pivotal (acquired by VMware) | *in-office, Feb 2018 — Jan 2020* |
 |:-------------------------------------------------------|---------------------------------:|
 
-* Maintained full-stack Billing & Account Management app (Rails) and its **CI/CD** — pair programming full time to support hundreds of thousands of users' billing needs — through **Rails** feature development, migrations, CI/CD hardening and on-call (**AWS**/TDD/**runbooks**/**tooling**).
+* Maintained full-stack Billing & Account Management app (Rails) and its **CI/CD** — pair programming full time to support hundreds of thousands of users' billing needs — through **Rails** feature development, migrations, CI/CD hardening and on-call (**AWS**/TDD/runbooks/tooling).
 
-* Maintained Pivotal Web Services (PWS, a **PaaS**) platform's Rails-based Usage Service and its CI/CD across dozens of versions of the platform, by shipping features, updating dependencies and fixing customer/CI issues.
+* Maintained Pivotal Web Services (PWS, a **PaaS**) & platform's Rails-based Usage Service and their CI/CD across dozens of versions of the platform, by shipping features, updating dependencies and fixing customer/CI issues.
 
 * Operated PWS at a **99.95% SLO** across thousands of nodes and dozens of services while deploying weekly updates — using CI gates, canary node pools, automated rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating **runbooks** and **tooling** (**Bash**/**Ruby**/**Python**).
 
