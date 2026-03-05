@@ -13,18 +13,18 @@
 | Consulting Engineer, Blacks Media | *remote, Dec 2024 — July 2025* |
 | :---- | ----: |
 
-* Cut SQL prototyping, data analysis, and debugging from days to hours by building a project-specific GPT grounded in the team's models, log schema, and datasets.
+* Cut SQL prototyping, data analysis, and debugging from days to hours by building a **project-specific GPT** grounded in the team's models, log schema, and datasets.
 
 * Replaced 1/7/14-day usage/conversion rollups with full-history reporting over 10M+ rows while maintaining baseline response times and simplifying maintenance — by reducing joins, centralizing models and adding caching (Athena/Iceberg/CloudFront logs/Metabase).
 
 | Software Reliability Engineer 3, VMware (acquired by Broadcom) | *remote, Jan 2020 — Dec 2023* |
 | :---- | ----: |
 
-* Standardized operations visibility across Tanzu, **collaborating with 20 microservice teams** to define their **SLIs** & **error budgets**, producing a single-pane dashboard with \~200 charts and \~**60 SLIs**.
+* Standardized operations visibility across Tanzu, **collaborating with 20 microservice teams** to define their SLIs & error budgets, producing a **single-pane dashboard** with \~200 charts and \~60 SLIs.
 
-* Authored 6 reusable **dashboards-as-code** **Terraform modules**, maintained Wavefront **Terraform provider** and **Go API client**, simplifying configuration and leveraging modular design.
+* Authored 6 reusable **dashboards-as-code Terraform modules**, maintained **Wavefront Terraform provider** and **Go API client**, simplifying configuration and leveraging modular design.
 
-* Provided Tanzu Mission Control continuous monitoring against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom **SLI probes** and **k8s controllers,** emitting metrics to Wavefront (time-series DB). (Kustomize/GitOps/fluentbit, Vault, **Python** and kubebuilder)
+* Provided Tanzu Mission Control **continuous monitoring** against its **99.99% SLO** by building and operating **Kubernetes** clusters running custom SLI probes and custom k8s controllers, emitting metrics to Wavefront (time-series DB). (Kustomize/GitOps/fluentbit, Vault, **Python** and kubebuilder)
 
 * Drove **cross-service incident triage** for Tanzu microservice teams, resolving a dozen "no-owner" incidents by leading **blameless RCAs** and pushing through organizational friction to get fixes implemented.
 
@@ -33,11 +33,11 @@
 | Senior Software Engineer, Pivotal (acquired by VMware) | *in-office, Feb 2018 — Jan 2020* |
 | :---- | ----: |
 
-* Maintained full-stack Billing & Account Management app (Rails) and its **CI/CD** — pair programming full time to support hundreds of thousands of users' billing needs — through **Rails** feature development, migrations, CI/CD hardening and on-call (**AWS**/TDD/**runbooks**/**tooling**).
+* Maintained full-stack Billing & Account Management app (Rails) and its **CI/CD** — pair programming full time to support hundreds of thousands of users' billing needs — through **Rails** feature development, migrations, CI/CD hardening and on-call (**AWS**/**TDD**/**runbooks**/**tooling**/**Concourse**/**Sidekiq**/CredHub).
 
-* Maintained Pivotal Web Services (PWS, a **PaaS**) & platform's Rails-based Usage Service and their CI/CD across dozens of versions of the platform, by shipping features, updating dependencies and fixing customer/CI issues.
+* Maintained Pivotal Web Services (PWS, a **PaaS**) & platform's Rails-based Usage Service and their **CI/CD** across dozens of versions of the platform, by shipping features, updating dependencies and fixing customer/CI issues.
 
-* Operated PWS at a **99.95% SLO** across thousands of nodes and dozens of services while deploying weekly updates — using CI gates, canary node pools, automated rollbacks, dashboards & alerts (Datadog/PagerDuty), leading **incident responses** while updating **runbooks** and **tooling** (**Bash**/**Ruby**/**Python**).
+* Operated PWS at a **99.95% SLO** across thousands of nodes and dozens of services while deploying weekly updates — using CI gates, canary node pools, automated rollbacks, dashboards & alerts (Datadog/PagerDuty/ **Concourse**), leading **incident responses** while updating **runbooks** and **tooling** (**Bash**/**Ruby**/**Python**).
 
 * Supported a culture of candor and learning for 8 teams by increasing psychological safety (Google's Project Aristotle) by moderating **team-building** exercises that are based on Spotify's Squad Health Check (SHC).
 
@@ -53,7 +53,7 @@
 | Senior Software Engineer, Entelo | *in-office, Mar 2017 — Jun 2017* |
 | :---- | ----: |
 
-* Built a Rails background job that leveraged GitHub's public API to improve data freshness and coverage for **hundreds of millions** of candidate profiles using TDD and **Rails**.
+* Built a Rails background job that leveraged GitHub's public API to improve data freshness and coverage for **hundreds of millions** of candidate profiles using **TDD** and **Rails**.
 
 | Founding Engineer, Gametime | *hybrid, Jun 2013 — Jan 2017* |
 | :---- | ----: |
@@ -62,7 +62,7 @@
 
 * Enabled early investor demos and customer satisfaction — taking prototype **\<40%** purchase reliability to **≥80%** in the first month — by replacing an alpha Python backend with a robust **Ruby** implementation.
 
-* Increased checkout **reliability to 99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/Kafka), observability (Datadog/Honeybadger) and improving alert hygiene.
+* Increased checkout **reliability to 99%** and reduced incident pages from **5–6/month** down to **fewer than one a month** — by adding idempotency, retries/backoff, adaptive polling, queues (SQS/**Kafka**), observability (Datadog/Honeybadger) and improving alert hygiene.
 
 * Rightsized backend as users grew from tens-of users per day to tens-of-thousands by implementing dozens of **Ruby** microservices on **AWS** (EC2, S3, Route 53, etc) and scaling MongoDB/Redis/etcd clusters.
 
@@ -78,11 +78,11 @@
 
 * **Consultant**, **Spiration**: Built a web form on Salesforce/Force.com — reducing data-entry errors to **near zero** — using a combination of Visualforce and JavaScript. (*remote, 2013*)
 
-* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen realtors — **thousands** of ads posted and automatically verified per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a Node.js backend on **AWS**. (*hybrid, 2010 — 2013*)
+* **Cofounder**, **Leadadvo**: Automated Craigslist listings for a dozen realtors — **thousands** of ads posted and **automatically verified** per day — using Selenium, PhantomJS, dedicated proxy infrastructure, Handlebars and a Node.js backend on **AWS**. (*hybrid, 2010 — 2013*)
 
 **Personal Projects & Leadership \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-* **Game Hosting Platform**, **Personal Project**: Built a full stack platform on **GCP** which currently supports two headless game servers: Valheim and Barotrauma — collaborated with ChatGPT to produce **Bash**, systemd, **Terraform** and **Packer**\-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024* \- Present)
+* **Game Hosting Platform**, **Personal Project**: Built A full stack platform on **GCP** which currently supports two headless game servers: Valheim and Barotrauma — collaborated with ChatGPT to produce **Bash**, systemd, **Terraform** and **Packer**\-based tooling. [https://github.com/bwinter/baroboys](https://github.com/bwinter/baroboys) (*2024* \- Present)
 
 * **Board Member**, **Condo HOA**: Kept operations predictable and reserves aligned, achieving no unplanned special assessments, through collaborative budget and reserve planning with fellow directors and property management (Sep 2022 \- Present)
 
@@ -95,7 +95,7 @@
 
 **Languages**: Ruby, Bash, SQL, Python, JavaScript, Go, C++, Java
 
-**Cloud & Infra**: AWS (EC2, S3, IAM, Route 53, CloudWatch and more), Linux, Terraform, Docker, Kubernetes, Cloud Foundry, GCP, RESTful APIs
+**Cloud & Infra**: AWS (EC2, S3, IAM, Route 53, CloudWatch and more), Linux, Terraform, Docker, Kubernetes, Cloud Foundry, GCP, RESTful APIs, CredHub, Vault
 
 **SRE & reliability**: SLIs/SLOs, error budgets, incident response/RCAs/on-call, postmortems, incident command, TDD, CI/CD, Concourse
 

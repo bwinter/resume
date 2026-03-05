@@ -10,11 +10,11 @@ This repository contains the exported versions of my résumé and the image asse
 
 ## Source of truth & versions
 
-- The résumé is written and maintained in Google Docs.
-- This repo reflects the latest exported version.
-- If you need an older version, check the Git commit history.
+- Source résumé is written and maintained in Google Docs.
+- Repo reflects the latest exported version.
+- Older version maybe be found in the Git history.
 
 ## Notes
 
 - These files are personal application materials — not licensed for reuse.
-- If you’re viewing this on GitHub, open the PDF first.
+- The PDF is the nicest format, markdown intended as a backup option.
